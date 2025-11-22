@@ -1,0 +1,2 @@
+Refund initiated for CustomerID: 8882093166 because: Customer is shifting to another place and requests refund for Rs 399 broadband plan.
+Refund initiated for CustomerID: cust381 because: Shifting to a new internet broadband company

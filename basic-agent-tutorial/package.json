@@ -1,0 +1,20 @@
+{
+  "name": "tutorial-1",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.3.0",
+    "@types/node": "^24.10.0",
+    "dotenv": "^17.2.3",
+    "openai": "^6.8.1",
+    "resend": "^6.4.2",
+    "zod": "3"
+  }
+}
