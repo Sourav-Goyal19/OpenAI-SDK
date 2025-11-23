@@ -1,0 +1,19 @@
+{
+  "name": "run-context",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.3.3",
+    "@types/node": "^24.10.1",
+    "dotenv": "^17.2.3",
+    "openai": "^6.9.1",
+    "zod": "3"
+  }
+}
